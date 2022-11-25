@@ -79,6 +79,16 @@
     {
       "categoryTitle": "Electrical Services"
     }
-  ]
+  ],
+
+  "Profile":{
+    "name":"Obed Okpala",
+    "email":"meetbeddy@gmail.com",
+    "address":"21 Alexa, Str Kuje Abuja",
+    "phone":"090928892",
+    "birthDate":"2022-10-21",
+    "gender":"Male"
+
+  }
  
 }
