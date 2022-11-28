@@ -89,6 +89,77 @@
     "birthDate":"2022-10-21",
     "gender":"Male"
 
+  }, 
+  "Staff":[{
+    "name":"John Doe",
+    "staffId": "staff-001",
+    "gender":"Male",
+    "currentPosition":"Manager",
+    "previousPosition":"",
+    "catgory":"Admin",
+    "phone1":"090928892",
+    "phone2":"",
+    "directPosition":"Hugo Boss",
+    "personalEmail":"johndoe@gmail.com",
+    "workEmail":"johndoe@fixa.com.ng",
+    "stateOfOrigin":"Enugu",
+    "LGA":"NSK",
+    "guarantorName":"Guarantor Joe",
+    "guarantorAddress":"22 first str, guarantorAddress, Some city",
+    "highestEdu":"Bsc Marketing",
+    "keySkills":["team-work", "problem solving","active listening"],
+    "about": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corporis esse magni odit, nihil ad veritatis earum autem assumenda, rerum sint officia delectus? Molestiae maxime fugiat cupiditate nobis. Ut, accusantium ullam?",
+    "performanceScore":"80",
+    "createdAt":"11-11-2022"
+
+  },
+
+  {
+    "name":"John Doe",
+    "staffId": "staff-002",
+    "gender":"Male",
+    "currentPosition":"Marketer",
+    "previousPosition":"",
+    "catgory":"Admin",
+    "phone1":"090928892",
+    "phone2":"",
+    "directPosition":"Hugo Boss",
+    "personalEmail":"johndoe@gmail.com",
+    "workEmail":"johndoe@fixa.com.ng",
+    "stateOfOrigin":"Enugu",
+    "LGA":"NSK",
+    "guarantorName":"Guarantor Joe",
+    "guarantorAddress":"22 first str, guarantorAddress, Some city",
+    "highestEdu":"Bsc Marketing",
+    "keySkills":["team-work", "problem solving","active listening"],
+    "about": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corporis esse magni odit, nihil ad veritatis earum autem assumenda, rerum sint officia delectus? Molestiae maxime fugiat cupiditate nobis. Ut, accusantium ullam?",
+    "performanceScore":"80",
+    "createdAt":"11-11-2022"
+
+  },
+  {
+    "name":"John Doe",
+    "staffId": "staff-003",
+    "gender":"Male",
+    "currentPosition":"Marketer",
+    "previousPosition":"",
+    "catgory":"Admin",
+    "phone1":"090928892",
+    "phone2":"",
+    "directPosition":"Hugo Boss",
+    "personalEmail":"johndoe@gmail.com",
+    "workEmail":"johndoe@fixa.com.ng",
+    "stateOfOrigin":"Enugu",
+    "LGA":"NSK",
+    "guarantorName":"Guarantor Joe",
+    "guarantorAddress":"22 first str, guarantorAddress, Some city",
+    "highestEdu":"Bsc Marketing",
+    "keySkills":["team-work", "problem solving","active listening"],
+    "about": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corporis esse magni odit, nihil ad veritatis earum autem assumenda, rerum sint officia delectus? Molestiae maxime fugiat cupiditate nobis. Ut, accusantium ullam?",
+    "performanceScore":"80",
+    "createdAt":"11-11-2022"
+
   }
+]
  
 }

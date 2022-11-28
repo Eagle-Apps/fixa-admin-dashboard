@@ -141,7 +141,7 @@ function SideNav(props) {
           </a>
           <ul className="menu-sub">
             <li className="menu-item">
-              <RouterNavLink to="reunion" className="menu-link">
+              <RouterNavLink to="staff-list" className="menu-link">
                 <div data-i18n="Without menu">Staff List</div>
               </RouterNavLink>
               <RouterNavLink to="reunion" className="menu-link">
